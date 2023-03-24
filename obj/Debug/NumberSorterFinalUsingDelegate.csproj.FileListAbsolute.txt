@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\bin\Debug\NumberSorterFinalUsingDelegate.exe.config
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\bin\Debug\NumberSorterFinalUsingDelegate.exe
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\bin\Debug\NumberSorterFinalUsingDelegate.pdb
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\obj\Debug\NumberSorterFinalUsingDelegate.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\obj\Debug\NumberSorterFinalUsingDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\obj\Debug\NumberSorterFinalUsingDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\obj\Debug\NumberSorterFinalUsingDelegate.exe
+C:\Users\Wiz\Desktop\IGME 201\NumberSorterFinalUsingDelegate\obj\Debug\NumberSorterFinalUsingDelegate.pdb
